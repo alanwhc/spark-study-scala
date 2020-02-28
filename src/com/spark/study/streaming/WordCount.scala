@@ -27,7 +27,7 @@ object WordCount {
     
     //打印结果
     wordCounts.print()
-    
+     
     sc.start()
     sc.awaitTermination()
   }
